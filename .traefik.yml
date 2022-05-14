@@ -1,7 +1,7 @@
 displayName: Record Plugin
 type: middleware
 
-import: github.com/suteqa/plugin_record
+import: github.com/suteqa/plugin-record
 
 summary: '[Demo] Request record '
 
